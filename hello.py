@@ -41,7 +41,7 @@ else:
         grades = 3.00
         status = "Passed"
     else:
-        grade = 5.00
+        grades = 5.00
         status = "Failed"
     
 print(f"Final Grade: {final_grade:.2f}")
